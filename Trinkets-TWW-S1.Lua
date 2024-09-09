@@ -76,7 +76,7 @@
       "frameStrata": 1,
       "height": 32,
       "icon": true,
-      "iconSource": 1,
+      "iconSource": -1,
       "id": "Quickwick Candlestick",
       "information": [],
       "internalVersion": 75,
@@ -106,7 +106,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -206,16 +206,16 @@
         "activeTriggerMode": -10
       },
       "uid": "vsPMRkQ9iYb",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -293,7 +293,7 @@
       "frameStrata": 1,
       "height": 32,
       "icon": true,
-      "iconSource": 1,
+      "iconSource": -1,
       "id": "Ravenous Honey Buzzer",
       "information": [],
       "internalVersion": 75,
@@ -323,7 +323,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -423,16 +423,16 @@
         "activeTriggerMode": -10
       },
       "uid": "e3lMQ0JmqJ7",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -510,7 +510,7 @@
       "frameStrata": 1,
       "height": 32,
       "icon": true,
-      "iconSource": 1,
+      "iconSource": -1,
       "id": "Oppressive Oratot's Larynx",
       "information": [],
       "internalVersion": 75,
@@ -540,7 +540,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -640,16 +640,16 @@
         "activeTriggerMode": -10
       },
       "uid": "6syyigZMbN7",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -728,7 +728,7 @@
       "frameStrata": 1,
       "height": 32,
       "icon": true,
-      "iconSource": 1,
+      "iconSource": -1,
       "id": "Twin Fang Instruments",
       "information": [],
       "internalVersion": 75,
@@ -758,7 +758,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -858,16 +858,16 @@
         "activeTriggerMode": -10
       },
       "uid": "z9r08vomFVy",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -975,7 +975,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -1075,16 +1075,16 @@
         "activeTriggerMode": -10
       },
       "uid": "n5SVE7nQzNd",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -1192,7 +1192,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -1292,16 +1292,16 @@
         "activeTriggerMode": -10
       },
       "uid": "W7K8lPLG24O",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -1409,7 +1409,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -1509,16 +1509,16 @@
         "activeTriggerMode": -10
       },
       "uid": "e1XyOuivBW7",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -1626,7 +1626,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -1726,16 +1726,16 @@
         "activeTriggerMode": -10
       },
       "uid": "oyj7bij5Gp7",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -1843,7 +1843,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -1943,16 +1943,16 @@
         "activeTriggerMode": -10
       },
       "uid": "fMmQQAIgbzw",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -2060,7 +2060,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2160,16 +2160,16 @@
         "activeTriggerMode": -10
       },
       "uid": "fwJscqSuYDV",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -2277,7 +2277,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2377,16 +2377,16 @@
         "activeTriggerMode": -10
       },
       "uid": "2C2XMcEaJGx",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -2494,7 +2494,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2594,16 +2594,16 @@
         "activeTriggerMode": -10
       },
       "uid": "Tt7pnRn)Dfv",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -2711,7 +2711,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2811,16 +2811,16 @@
         "activeTriggerMode": -10
       },
       "uid": "RYo6Yi32m7W",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -2928,7 +2928,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3028,16 +3028,16 @@
         "activeTriggerMode": -10
       },
       "uid": "GzZF1p4E6Ge",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -3145,7 +3145,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3245,16 +3245,16 @@
         "activeTriggerMode": -10
       },
       "uid": ")6xW4TvH5SB",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -3362,7 +3362,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3462,16 +3462,16 @@
         "activeTriggerMode": -10
       },
       "uid": "W7sqAbeZ7jJ",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -3579,7 +3579,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3679,16 +3679,16 @@
         "activeTriggerMode": -10
       },
       "uid": "Fg5ISBF9NWE",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -3796,7 +3796,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3896,16 +3896,16 @@
         "activeTriggerMode": -10
       },
       "uid": "RADUCZw1aPr",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -4013,7 +4013,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -4113,16 +4113,16 @@
         "activeTriggerMode": -10
       },
       "uid": "iPBA6iEJcpS",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -4230,7 +4230,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -4330,16 +4330,16 @@
         "activeTriggerMode": -10
       },
       "uid": "TFLpS7cfeT3",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -4447,7 +4447,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -4547,16 +4547,16 @@
         "activeTriggerMode": -10
       },
       "uid": "zEXP54bJFtL",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -4664,7 +4664,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -4764,16 +4764,16 @@
         "activeTriggerMode": -10
       },
       "uid": "Var1SHYan37",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -4881,7 +4881,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -4981,16 +4981,16 @@
         "activeTriggerMode": -10
       },
       "uid": "7JoncwWoS(a",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -5098,7 +5098,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -5198,16 +5198,16 @@
         "activeTriggerMode": -10
       },
       "uid": "exxo)BGcuKf",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -5315,7 +5315,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -5415,16 +5415,16 @@
         "activeTriggerMode": -10
       },
       "uid": "rKktJiY)5ju",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -5532,7 +5532,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -5632,16 +5632,16 @@
         "activeTriggerMode": -10
       },
       "uid": "KdQeVUtGzZS",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -5749,7 +5749,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -5849,16 +5849,16 @@
         "activeTriggerMode": -10
       },
       "uid": "H9V8lTzqGDV",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -5966,7 +5966,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6066,16 +6066,16 @@
         "activeTriggerMode": -10
       },
       "uid": "(8ypqsjqRW8",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     },
     {
       "actions": {
@@ -6183,7 +6183,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "CENTER",
-      "semver": "1.0.0",
+      "semver": "1.0.1",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6283,16 +6283,16 @@
         "activeTriggerMode": -10
       },
       "uid": "pBnp53dpIZI",
-      "url": "https://wago.io/WmhdimhoG/1",
+      "url": "https://wago.io/WmhdimhoG/2",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 1,
+      "version": 2,
       "wagoID": "WmhdimhoG",
       "width": 32,
       "xOffset": 0,
       "yOffset": 0,
-      "zoom": 0
+      "zoom": 0.25
     }
   ],
   "d": {
@@ -6382,7 +6382,7 @@
     "rowSpace": 1,
     "scale": 1,
     "selfPoint": "RIGHT",
-    "semver": "1.0.0",
+    "semver": "1.0.1",
     "sort": "none",
     "space": 2,
     "stagger": 0,
@@ -6405,12 +6405,12 @@
       }
     ],
     "uid": "(mBtemwhtTs",
-    "url": "https://wago.io/WmhdimhoG/1",
+    "url": "https://wago.io/WmhdimhoG/2",
     "useLimit": false,
-    "version": 1,
+    "version": 2,
     "wagoID": "WmhdimhoG",
-    "xOffset": -177.22971906662,
-    "yOffset": -230.97329711914
+    "xOffset": -171.48628559113,
+    "yOffset": -135.79408942329
   },
   "m": "d",
   "s": "5.17.0",
